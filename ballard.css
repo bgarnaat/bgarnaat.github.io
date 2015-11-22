@@ -18,7 +18,7 @@ body {
 
 img {
   height: 300px;
-  width: 400px;
+  width: 600px;
 }
 
 header {
@@ -29,6 +29,7 @@ header {
   display: block;
   width: ;
   vertical-align: middle;
+  text-align: center;
 }
 
 nav {
